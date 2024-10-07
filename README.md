@@ -2,47 +2,54 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is the [Lego Dataset](https://github.com/Landaman/dataviz-project-template-proposal). It can be found here on [VizHub](https://vizhub.com/Landaman/lego-csv). It contains information about every Lego set manufactured from 1970 to 2015, which is over 6000 sets.
+
+A few attributes are included from each set:
+- Its ID
+- Its name
+- Its manufacture year
+- Its theme
+- Its number of pieces
+- Its number of minifigures
+- Its price in various regions
+- Its availability and box type
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+- I want to understand the correlation between cost and number of pieces
+- I want to visualize how the number of pieces has changed over time
+- I want to visualize how cost has changed over time
+- I want to understand the correlation between theme and number of pieces
+- I want to visualize which themes sets come from - perhaps a bubble chart or a pie chart could accomplish this
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/b93686b1-20fa-422f-b104-86d54827caff">
 
+This visualization shows the percentage of lego sets that fall into each theme, relative to the others.
+It also shows subcategories, representing how many sets fall into each subtheme within a given theme.
+
+<img width="769" alt="image" src="https://github.com/user-attachments/assets/695ae9d8-dce3-40a3-89f8-b7e23249306a">
+
+This visualization shows the interaction with this set. Hovering over a segment will show the number of sets and percentage in each theme, and clicking on a category within that popup will show the price distribution of the theme/subtheme
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a piechart and it shows the percentage of sets in each theme.
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+<img width="544" alt="image" src="https://github.com/user-attachments/assets/4d96f31f-ef93-4bed-9067-841d82b85bc4">
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
-
-## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+[VizHub](https://vizhub.com/Landaman/27e24f43fb8f4c69bb5d0f97c164361b)
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Week 2 - Pick datasets
+Week 3 - Identify dataset tasks
+Week 4 - Initial sketches
+Week 5 - Sketch iterations
+Week 6 - Project Proposal
+Week 7 - Project Proposal Document
+
