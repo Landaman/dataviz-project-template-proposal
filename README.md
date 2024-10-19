@@ -44,6 +44,15 @@ I’ve created a proof of concept visualization of this data. It's a piechart an
 
 [VizHub](https://vizhub.com/Landaman/27e24f43fb8f4c69bb5d0f97c164361b)
 
+An actual prototype with the PieChart data doesn't look very good (since most of the themes have a very small number of sets)
+<img width="873" alt="image" src="https://github.com/user-attachments/assets/016dae58-b012-46d8-a6da-97101f7f1f66">
+
+Leaving only the top 9 and combining the rest to a "Miscellaneous" group helps a lot
+<img width="822" alt="image" src="https://github.com/user-attachments/assets/f965fbfc-ebce-42e3-ad7e-cf038ee725a4">
+
+This then provides the sub-themes, using "g"s to group and scaling based on the percentages calculated for each price range
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/9d662c51-1420-4cfb-88ea-f2337c5c2498">
+
 ## Milestones
 
 Week 2 - Pick datasets
@@ -52,4 +61,6 @@ Week 4 - Initial sketches
 Week 5 - Sketch iterations
 Week 6 - Project Proposal
 Week 7 - Project Proposal Document
+Week 8 - Substantial Progress
+
 
