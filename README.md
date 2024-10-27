@@ -26,15 +26,15 @@ The following tasks and questions will drive the visualization and interaction d
 - I want to visualize which themes sets come from - perhaps a bubble chart or a pie chart could accomplish this
 
 ## Sketches
-
-<img width="416" alt="image" src="https://github.com/user-attachments/assets/b93686b1-20fa-422f-b104-86d54827caff">
-
+'
 This visualization shows the percentage of lego sets that fall into each theme, relative to the others.
 It also shows subcategories, representing how many sets fall into each subtheme within a given theme.
 
-<img width="769" alt="image" src="https://github.com/user-attachments/assets/695ae9d8-dce3-40a3-89f8-b7e23249306a">
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/b93686b1-20fa-422f-b104-86d54827caff">
 
 This visualization shows the interaction with this set. Hovering over a segment will show the number of sets and percentage in each theme, and clicking on a category within that popup will show the price distribution of the theme/subtheme
+
+<img width="769" alt="image" src="https://github.com/user-attachments/assets/695ae9d8-dce3-40a3-89f8-b7e23249306a">
 
 ## Prototypes
 
@@ -53,8 +53,30 @@ Leaving only the top 9 and combining the rest to a "Miscellaneous" group helps a
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/f965fbfc-ebce-42e3-ad7e-cf038ee725a4">
 
 This then provides the sub-themes, using "g"s to group and scaling based on the percentages calculated for each price range
+
 [VizHub](https://vizhub.com/Landaman/5f4b26c106a4455d819c2e1986cd8796)
 <img width="770" alt="image" src="https://github.com/user-attachments/assets/9d662c51-1420-4cfb-88ea-f2337c5c2498">
+
+Adding a legend improves the clarity of what the groups are doing
+
+<img width="997" alt="image" src="https://github.com/user-attachments/assets/793ad9d8-c61d-43b8-89cb-9f05d3a1fc4b">
+
+Reducing the size of the pie chart then helps make the screen more digestable
+
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/17ab80d7-e71c-4d4c-ac56-59974b3beb3e">
+
+Moving the labels out of the chart then further helps to improve readability
+
+<img width="1013" alt="image" src="https://github.com/user-attachments/assets/06e7d74f-fd6b-4b88-b48b-9249beaa32bd">
+
+Improving the positioning of the labels relative to the spokes then further helps
+
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/7a03b0a0-7c92-4e6d-810f-1b4a73294759">
+
+Finally, making the spokes mostly transparent makes them look less like the rest of the chart
+[VizHub](https://vizhub.com/Landaman/0fd4095dfbfa4dbc94a7b0b6a9d6b85e)
+
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/947918f6-3e4d-4913-ac0e-056281ce04af">
 
 ## Milestones
 
@@ -65,5 +87,6 @@ This then provides the sub-themes, using "g"s to group and scaling based on the 
 - Week 6 - Project Proposal
 - Week 7 - Project Proposal Document
 - Week 8 - Substantial Progress
+- Week 9 - Substantial Progress
 
 
