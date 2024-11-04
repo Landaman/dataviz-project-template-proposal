@@ -78,6 +78,12 @@ Finally, making the spokes mostly transparent makes them look less like the rest
 
 <img width="941" alt="image" src="https://github.com/user-attachments/assets/947918f6-3e4d-4913-ac0e-056281ce04af">
 
+Implementing the "hover color" effect improves readability
+[VizHub](https://vizhub.com/Landaman/1d18052ce5524fccafa11b8f6e68b67f)
+
+<img width="968" alt="image" src="https://github.com/user-attachments/assets/3c563030-ec63-4458-a087-f442134bc851">
+
+
 ## Milestones
 
 - Week 2 - Pick datasets
@@ -88,5 +94,6 @@ Finally, making the spokes mostly transparent makes them look less like the rest
 - Week 7 - Project Proposal Document
 - Week 8 - Substantial Progress
 - Week 9 - Substantial Progress
+- Week 10 - Hover Color Effect
 
 
