@@ -83,6 +83,16 @@ Implementing the "hover color" effect improves readability
 
 <img width="968" alt="image" src="https://github.com/user-attachments/assets/3c563030-ec63-4458-a087-f442134bc851">
 
+Changing the order things are drawn in improves the "pop" of the entire graph
+
+<img width="913" alt="image" src="https://github.com/user-attachments/assets/b43b3593-1622-46ca-805e-5f3cc7f1ea67">
+
+Refactoring to make modifications easier and adding an "Unknown" category to better match the dataset
+
+<img width="992" alt="image" src="https://github.com/user-attachments/assets/96fef519-cdbd-4ada-9c7f-f4d96642538f">
+
+Implemented responsiveness
+
 
 ## Milestones
 
@@ -95,5 +105,6 @@ Implementing the "hover color" effect improves readability
 - Week 8 - Substantial Progress
 - Week 9 - Substantial Progress
 - Week 10 - Hover Color Effect
+- Week 11 - Interaction & Responsiveness
 
 
