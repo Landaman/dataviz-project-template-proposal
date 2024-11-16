@@ -92,7 +92,12 @@ Refactoring to make modifications easier and adding an "Unknown" category to bet
 <img width="992" alt="image" src="https://github.com/user-attachments/assets/96fef519-cdbd-4ada-9c7f-f4d96642538f">
 
 Implemented responsiveness
+[VizHub](https://vizhub.com/Landaman/9be4b317a4cc4d21acb1752befb317a3)
 
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/703f6934-4b8a-4f14-84ac-b40b305e683d">
+
+Implemented a hover effect on catagory hover
+[VizHub](https://vizhub.com/Landaman/bf7265beccad426e9fc359e3a0ec0415)
 
 ## Milestones
 
@@ -106,5 +111,6 @@ Implemented responsiveness
 - Week 9 - Substantial Progress
 - Week 10 - Hover Color Effect
 - Week 11 - Interaction & Responsiveness
+- Week 12 - Catagory Hover Effect
 
 
